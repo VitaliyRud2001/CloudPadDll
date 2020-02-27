@@ -1,0 +1,8 @@
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\bin\Debug\netcoreapp3.1\CloudPadApi.deps.json
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\bin\Debug\netcoreapp3.1\CloudPadApi.dll
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\bin\Debug\netcoreapp3.1\CloudPadApi.pdb
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\obj\Debug\netcoreapp3.1\CloudPadApi.csprojAssemblyReference.cache
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\obj\Debug\netcoreapp3.1\CloudPadApi.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\obj\Debug\netcoreapp3.1\CloudPadApi.AssemblyInfo.cs
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\obj\Debug\netcoreapp3.1\CloudPadApi.dll
+C:\Users\vital\source\repos\Test_CloudPadApi\CloudPadApi\obj\Debug\netcoreapp3.1\CloudPadApi.pdb
